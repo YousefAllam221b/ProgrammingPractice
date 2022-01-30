@@ -1,0 +1,17 @@
+subjects={"math":{"saturday":["1st"],"monday":["3rd","4th"],"wednesday":["2nd","4th"],"thursday":["4th"]},"pyhsics":{"saturday":["2nd","3rd"],"sunday":["4th"],"monday":["2nd"],"wednesday":["2nd","4th"],"thursday":[]}}
+math={"saturday":["1st"],"monday":["3rd","4th"],"wednesday":["2nd","4th"],"thursday":["4th"]}
+pyhsics={"saturday":["2nd","3rd"],"sunday":["4th"],"monday":["2nd"],"wednesday":["2nd","4th"]}
+cs={"saturday":["3rd"],"sunday":["1st","2nd"],"tuesday":["3rd"],"thursday":["2nd","3rd"]}
+production={"monday":["1st","2nd"],"wednesday":["1st","4th"]}
+elct={"saturday":["2nd","4th"],"sunday":["3rd","4th"],"thursday":["4th"]}
+
+
+
+
+math={"saturday":["1st","3rd","4th"],"monday":["3rd","4th"]}
+math2={"wednesday":["2nd","4th"],"thursday":["1st","2nd","4th"]}
+physics={"saturday":["2nd","3rd"],"sunday":["4th"],"monday":["2nd"],"wednesday":["2nd","4th"]}
+cs={"saturday":["3rd"],"sunday":["1st","2nd"],"tuesday":["3rd"],"thursday":["2nd","3rd"]}
+production={"monday":["1st","2nd"],"wednesday":["1st","4th"]}
+elct={"saturday":["2nd","4th"],"sunday":["3rd","4th"],"thursday":["4th"]}
+subjects=["math","pyhsics","cs","prodcution","elct"]
